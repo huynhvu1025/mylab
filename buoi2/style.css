@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+/* ffdf */
+header {
+    height: 50px;
+}
+
+.freeMySQL {
+    background-color: #5c5c5c;
+    position: relative;
+    height: 67px;
+    padding: 15px 0 0 20px;
+}
+
+.disco {
+    width: 150px;
+    position: absolute;
+    right: 10px;
+    bottom: -45px;
+}
+
+.disco img {
+    width: 100%;
+}
+
+header ul li {
+    display: inline-block;
+    margin: 0 10px;
+    padding-top: 20px;
+}
+
+h2 {
+    color: blue;
+    text-align: center;
+    margin: 20px;
+}
+
+.listCard {
+    position: relative;
+}
+
+.register {
+    text-align: center;
+    width: 66%;
+    background-color: #f2f2f2;
+}
+
+.register h3 {
+    padding: 10px;
+    margin-bottom: 20px;
+    font-weight: 400;
+}
+
+.register h5 {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.register button {
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.register p {
+    padding-bottom: 10px;
+}
+
+.included {
+    width: 33%;
+    background-color: #f2f2f2;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+.included {
+    padding: 10px 20px;
+}
+
+.included ul {
+    padding-left: 30px;
+    margin-top: 10px;
+}
+
+.included ul li {
+    margin: 16px 0;
+}
